@@ -1,0 +1,7 @@
+General - http://www.chesslight.com/Pics/tutor/xiangqi/Xiangqi_General.gif
+Advisor - http://www.chesslight.com/Pics/tutor/xiangqi/Xiangqi_Advisor.gif
+Elephant - http://www.chesslight.com/Pics/tutor/xiangqi/Xiangqi_Elephant.gif
+Horse - http://www.chesslight.com/Pics/tutor/xiangqi/Xiangqi_Horse.gif
+Chariot - http://www.chesslight.com/Pics/tutor/xiangqi/Xiangqi_Chariot.gif
+Cannon - http://www.chesslight.com/Pics/tutor/xiangqi/Xiangqi_Cannon.gif
+Soldier - http://www.chesslight.com/Pics/tutor/xiangqi/Xiangqi_Soldier.gif
